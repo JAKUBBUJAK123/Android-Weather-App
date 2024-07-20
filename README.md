@@ -9,7 +9,7 @@ This app uses a weather API to fetch and display weather data, including currend
 
 ## Instalation
   1. clone the repository
-  git clone https://github.com/yourusername/WeatherApp.git
+  git clone [https://github.com/yourusername/WeatherApp.git](https://github.com/JAKUBBUJAK123/Android-Weather-App)
   2. Open the project
   Open Android Studio and select "Open an existing Android Studio project", then navigate to the cloned repository.
   3. Set up Your API Key
