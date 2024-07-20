@@ -23,8 +23,8 @@ import java.util.Date
 import java.util.Locale
 
 class MainActivity : ComponentActivity() {
-    val CITY: String = "Brzesko"
-    val API : String = "4220329b5b98baaea39d0a03693e55f9"
+    val CITY: String = "Krakow"
+    val API : String = "API_KEY"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.main_layout)
