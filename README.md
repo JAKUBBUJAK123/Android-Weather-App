@@ -3,9 +3,9 @@ A simple weather application for smartphones with android system that provides r
 This app uses a weather API to fetch and display weather data, including currend conditions and forecasts.
 
 #Prerequisites
-  Android Studio
-  Kotlin
-  An API key from a weather service (https://openweathermap.org)
+  1. Android Studio
+  2. Kotlin
+  3. An API key from a weather service (https://openweathermap.org)
 
 ## Instalation
   1. clone the repository
